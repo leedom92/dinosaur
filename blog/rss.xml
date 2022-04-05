@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Leedom Blog</title>
+        <link>https://dinosaur.leedom.me/blog</link>
+        <description>Leedom Blog</description>
+        <lastBuildDate>Thu, 31 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Azeroth]]></title>
+            <link>https://dinosaur.leedom.me/blog/azeroth</link>
+            <guid>azeroth</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I was once a horde warrior galloping across Azeroth.]]></description>
+            <content:encoded><![CDATA[<p><strong>I was once a horde warrior galloping across Azeroth.</strong></p><p>What I prefer is collecting legend weapons and rare mount.</p><p><img loading="lazy" alt="Orc" src="/assets/images/Orc-0a622fcd6f5f40d5959db1151b0f69f3.jpg" width="379" height="568" class="img_E7b_"> <img loading="lazy" alt="Azzinoth" src="/assets/images/Azzinoth-1251eb06e47edb8f4832c0aafd38c8d3.jpg" width="4032" height="3024" class="img_E7b_"></p>]]></content:encoded>
+            <category>wow</category>
+            <category>world of warcraft</category>
+            <category>horde</category>
+            <category>Azeroth</category>
+        </item>
+        <item>
+            <title><![CDATA[Goals]]></title>
+            <link>https://dinosaur.leedom.me/blog/goals</link>
+            <guid>goals</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are some goals to accomplish this year.]]></description>
+            <content:encoded><![CDATA[<p><strong>There are some goals to accomplish this year.</strong></p><ol class="contains-task-list"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Read a book every month. (since next month)</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Go to bed before 23:00. (since today)</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Run at least 1km every weekend. (since this week)</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Have a good temper.</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Act after thinking</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Save 50,000 RMB.</li></ol><div class="admonition admonition-info alert alert--info"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</h5></div><div class="admonition-content"><p>In a word, health is the most important!</p></div></div>]]></content:encoded>
+            <category>leedom</category>
+            <category>goals</category>
+            <category>health</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://dinosaur.leedom.me/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 27 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome!]]></description>
+            <content:encoded><![CDATA[<p>Welcome!</p><p>Here is Leedom's zone.</p><p>I will not share anything about front end in the blog, but record life.</p><p>I am a fun guy.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>life</category>
+        </item>
+    </channel>
+</rss>
