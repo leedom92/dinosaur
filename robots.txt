@@ -2,4 +2,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: https://docs.leedom.me/sitemap.xml
+Sitemap: https://dinosaur.leedom.me/sitemap.xml
