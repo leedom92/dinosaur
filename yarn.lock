@@ -1430,7 +1430,7 @@
     workbox-precaching "^6.5.2"
     workbox-window "^6.5.2"
 
-"@docusaurus/plugin-sitemap@2.0.0-beta.18", "@docusaurus/plugin-sitemap@^2.0.0-beta.18":
+"@docusaurus/plugin-sitemap@2.0.0-beta.18":
   version "2.0.0-beta.18"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-beta.18.tgz#7e8217e95bede5719bd02265dcf7eb2fea76b675"
   integrity sha512-Klonht0Ye3FivdBpS80hkVYNOH+8lL/1rbCPEV92rKhwYdwnIejqhdKct4tUTCl8TYwWiyeUFQqobC/5FNVZPQ==
@@ -2400,6 +2400,11 @@ algoliasearch@^4.0.0, algoliasearch@^4.13.0:
     "@algolia/requester-common" "4.13.0"
     "@algolia/requester-node-http" "4.13.0"
     "@algolia/transporter" "4.13.0"
+
+animate.css@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/animate.css/-/animate.css-4.1.1.tgz#614ec5a81131d7e4dc362a58143f7406abd68075"
+  integrity sha512-+mRmCTv6SbCmtYJCN4faJMNFVNN5EuCTTprDTAo7YzIGji2KADmakjVA3+8mVDkZ2Bf09vayB35lSQIex2+QaQ==
 
 ansi-align@^3.0.0, ansi-align@^3.0.1:
   version "3.0.1"

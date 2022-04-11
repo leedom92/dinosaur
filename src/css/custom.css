@@ -40,6 +40,26 @@
 
 
 /* custom */
+:root {
+  --ifm-color-primary: #3799a0;
+  --ifm-color-primary-dark: #318a90;
+  --ifm-color-primary-darker: #2f8288;
+  --ifm-color-primary-darkest: #276b70;
+  --ifm-color-primary-light: #3da8b0;
+  --ifm-color-primary-lighter: #3fb0b8;
+  --ifm-color-primary-lightest: #53bdc4;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #25c1be;
+  --ifm-color-primary-dark: #21aeab;
+  --ifm-color-primary-darker: #1fa4a1;
+  --ifm-color-primary-darkest: #1a8785;
+  --ifm-color-primary-light: #29d4d1;
+  --ifm-color-primary-lighter: #31d8d4;
+  --ifm-color-primary-lightest: #4eddda;
+}
+
 .header-box {
   display: flex;
   justify-content: center;
@@ -50,13 +70,29 @@
 }
 
 .hero__title {
-  color: #25c2a0;
+  color: #4eddda;
   font-size: calc(10px + 4rem);
 }
 
 .hero__subtitle {
   color: #fff;
   font-size: calc(10px + 1.2rem);
+  margin: 2vh auto;
+}
+
+.love__and__peace {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  width: 13ch;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 3s steps(13, end);
+}
+
+/*文本动画：从宽度为0开始*/
+@keyframes typing {
+  from {
+    width: 0;
+  }
 }
 
 @keyframes jack-in-the-box {

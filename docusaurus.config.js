@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Leedom',
-  tagline: 'Kissing JavaScript',
+  tagline: 'Love & Peace',
   url: 'https://dinosaur.leedom.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,11 +44,11 @@ const config = {
     ({
       navbar: {
         hideOnScroll: true,
-        title: 'Leedom',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/docusaurus_keytar.svg'
+          src: 'img/leedom_light.svg',
+          srcDark: 'img/leedom_dark.svg'
         },
         items: [
           {
